@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi! 👋 I'm Carolina D'Angelo</h1>
+
+<p align="center">I am passionate about art in all senses, I love drawing, painting and graphic design. I consider myself a very creative and curious person, I am always learning something new. I became interested in programming after spending 2 years venturing into digital marketing, learning technological skills aimed at growing online. I discovered that programming is an activity that I greatly enjoy and that motivates me to keep learning. <br>I am eager to take on new challenges and contribute to projects that make a meaningful impact.</p>
 
 <!--
 **CarolinaDangelo/CarolinaDangelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
