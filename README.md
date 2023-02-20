@@ -2,6 +2,10 @@
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf2836cb-5893-4a6c-b156-5a89d94fc721/db4c5w8-872c5216-6b2a-4053-a973-4bff14d915ba.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NmMjgzNmNiLTU4OTMtNGE2Yy1iMTU2LTVhODlkOTRmYzcyMVwvZGI0YzV3OC04NzJjNTIxNi02YjJhLTQwNTMtYTk3My00YmZmMTRkOTE1YmEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.FihtHNJJ1tlJeoyEyUifAP_LuE7aEz85l09M_IDb3a8" />
 </div>
 
+<div align="center">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/188ddcf2-7da4-4182-9711-a18161a5af72/d8th5lh-adac81de-8e7e-424c-97c4-2f1e4670e5c4.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE4OGRkY2YyLTdkYTQtNDE4Mi05NzExLWExODE2MWE1YWY3MlwvZDh0aDVsaC1hZGFjODFkZS04ZTdlLTQyNGMtOTdjNC0yZjFlNDY3MGU1YzQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.YiZz5k5aXLxaf-74SJ11p6EbXvpUwwiFgTFoFfOJYHM"/>
+</div>
+
 <h1 align="center">Hi! 👋 I'm Carolina D'Angelo</h1>
 
 <p align="center">I am passionate about art in all senses, I love drawing, painting and graphic design. I consider myself a very creative and curious person, I am always learning something new. I became interested in programming after spending 2 years venturing into digital marketing, learning technological skills aimed at growing online. I discovered that programming is an activity that I greatly enjoy and that motivates me to keep learning. <br>I am eager to take on new challenges and contribute to projects that make a meaningful impact.</p>
