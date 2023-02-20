@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+### 📊 My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CarolinaDangelo&theme=monokai&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarolinaDangelo&show_icons=true&theme=monokai)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaDangelo&layout=compact&theme=monokai)](https://github.com/CarolinaDangelo/github-readme-stats)
