@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ---
 
 <div align="center">
-<h2>✦ Programming Skills ✦</h2>
+<h2>✦✨ Programming Skills ✨✦</h2>
 <p>
     <img src="https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/Css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
-<h2>✦ Tools & Technologies ✦</h2>
+<h2>✦✨ Tools & Technologies ✨✦</h2>
 <p>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=GitHub&logoColor=white">
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=white">
 </p>
 
-<h2>✦ My Stats ✦</h2>
+<h2>✦✨ My Stats ✨✦</h2>
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CarolinaDangelo&theme=monokai&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
