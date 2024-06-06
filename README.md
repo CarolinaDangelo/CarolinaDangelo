@@ -45,6 +45,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Github-222830?style=for-the-badge&logo=GitHub&logoColor=white">
     <img src="https://img.shields.io/badge/Wordpress-222830?style=for-the-badge&logo=Wordpress&logoColor=21759B">
     <img src="https://img.shields.io/badge/Elementor-222830?style=for-the-badge&logo=Elementor&logoColor=92003B">
+    <img src="https://img.shields.io/badge/Firebase-222830?style=for-the-badge&logo=Firebase&logoColor=FFCA28">
     <img src="https://img.shields.io/badge/Notion-222830?style=for-the-badge&logo=Notion&logoColor=white">
     <img src="https://img.shields.io/badge/Trello-222830?style=for-the-badge&logo=Trello&logoColor=0052CC">
 </p>
