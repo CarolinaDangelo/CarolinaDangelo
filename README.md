@@ -30,31 +30,31 @@ Here are some ideas to get you started:
 <div align="center">
 <h2>✦✨ Programming Skills ✨✦</h2>
 <p>
-    <img src="https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/Css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass3&logoColor=white">
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+    <img src="https://img.shields.io/badge/Html-11151b?style=for-the-badge&logo=html5&logoColor=E34F26">
+    <img src="https://img.shields.io/badge/Css-11151b?style=for-the-badge&logo=css3&logoColor=1572B6">
+    <img src="https://img.shields.io/badge/Sass-11151b?style=for-the-badge&logo=sass3&logoColor=CC6699">
+    <img src="https://img.shields.io/badge/Bootstrap-11151b?style=for-the-badge&logo=bootstrap&logoColor=7952B3">
+    <img src="https://img.shields.io/badge/JavaScript-11151b?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    <img src="https://img.shields.io/badge/React-11151b?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img src="https://img.shields.io/badge/Angular-11151b?style=for-the-badge&logo=angular&logoColor=DD0031">
 </p>
 
 <h2>✦✨ Tools & Technologies ✨✦</h2>
 <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-    <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=GitHub&logoColor=white">
-    <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=Wordpress&logoColor=white">
-    <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=Elementor&logoColor=white">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-    <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=white">
+    <img src="https://img.shields.io/badge/Git-11151b?style=for-the-badge&logo=git&logoColor=F05032">
+    <img src="https://img.shields.io/badge/Github-11151b?style=for-the-badge&logo=GitHub&logoColor=white">
+    <img src="https://img.shields.io/badge/Wordpress-11151b?style=for-the-badge&logo=Wordpress&logoColor=21759B">
+    <img src="https://img.shields.io/badge/Elementor-11151b?style=for-the-badge&logo=Elementor&logoColor=92003B">
+    <img src="https://img.shields.io/badge/Notion-11151b?style=for-the-badge&logo=Notion&logoColor=white">
+    <img src="https://img.shields.io/badge/Trello-11151b?style=for-the-badge&logo=Trello&logoColor=0052CC">
 </p>
 
 <h2>✦✨ Design Tools✨✦</h2>
 <p>
-    <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white">
-    <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white">
-    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+    <img src="https://img.shields.io/badge/Photoshop-11151b?style=for-the-badge&logo=Adobe Photoshop&logoColor=31A8FF">
+    <img src="https://img.shields.io/badge/Illustrator-11151b?style=for-the-badge&logo=Adobe Illustrator&logoColor=FF9A00">
+    <img src="https://img.shields.io/badge/Canva-11151b?style=for-the-badge&logo=Canva&logoColor=00C4CC">
+    <img src="https://img.shields.io/badge/Figma-11151b?style=for-the-badge&logo=Figma&logoColor=F24E1E">
 </p>
 <h2>✦✨ My Stats ✨✦</h2>
   
