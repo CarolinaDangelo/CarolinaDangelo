@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <p>
     <img src="https://img.shields.io/badge/Html-222830?style=for-the-badge&logo=html5&logoColor=E34F26">
     <img src="https://img.shields.io/badge/Css-222830?style=for-the-badge&logo=css3&logoColor=1572B6">
-    <img src="https://img.shields.io/badge/Sass-222830?style=for-the-badge&logo=sass3&logoColor=CC6699">
+    <img src="https://img.shields.io/badge/Sass-222830?style=for-the-badge&logo=sass&logoColor=CC6699">
     <img src="https://img.shields.io/badge/Bootstrap-222830?style=for-the-badge&logo=bootstrap&logoColor=7952B3">
     <img src="https://img.shields.io/badge/JavaScript-222830?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img src="https://img.shields.io/badge/React-222830?style=for-the-badge&logo=react&logoColor=61DAFB">
