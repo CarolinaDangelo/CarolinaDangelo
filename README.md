@@ -8,7 +8,11 @@
 
 <h1>Hi! 👋 I'm Carolina D'Angelo</h1>
 
-<p>I am passionate about art in all senses, I love drawing, painting and graphic design. I consider myself a very creative and curious person, I am always learning something new. I became interested in programming after spending 2 years venturing into digital marketing, learning technological skills aimed at growing online. I discovered that programming is an activity that I greatly enjoy and that motivates me to keep learning. <br>I am eager to take on new challenges and contribute to projects that make a meaningful impact.</p>
+<p>My first contact with web development was using WordPress along with Elementor, creating two personal projects. This allowed me to understand the magic behind interfaces and web functionalities, sparking my curiosity about code. Determined to deepen my knowledge, I completed two intensive bootcamps. These programs provided me with a solid foundation in frontend development, constant practice, problem-solving skills, and a true passion for creating web experiences.<br>
+
+My persistence and determination allow me to tackle and solve complex problems, never giving up until I find an effective solution. Recognizing the importance of a good user experience, I decided to study UX/UI design. This decision not only complemented my technical skills but also revealed another passion that brings me happiness.<br>
+
+I combine advanced technical skills with a deep understanding of user-centered design. My focus is on creating solutions that not only work perfectly but also provide an exceptional user experience.</p>
 
 <!--
 **CarolinaDangelo/CarolinaDangelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
