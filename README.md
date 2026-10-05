@@ -8,11 +8,12 @@
 
 <h1>Hi! 👋 I'm Carolina D'Angelo</h1>
 
-<p>My first contact with web development was using WordPress along with Elementor, creating two personal projects. This allowed me to understand the magic behind interfaces and web functionalities, sparking my curiosity about code. Determined to deepen my knowledge, I completed two intensive bootcamps. These programs provided me with a solid foundation in frontend development, constant practice, problem-solving skills, and a true passion for creating web experiences.<br>
+<p>I’m a <strong>Web Developer, UX/UI Designer, and Product Designer</strong> with a multidisciplinary profile that combines <strong>web development, automation, artificial intelligence, and creativity</strong>. I create and develop <strong>digital products and solutions</strong>, working across user interfaces and experiences as well as automation, integrations, and AI-powered tools.
 
-My persistence and determination allow me to tackle and solve complex problems, never giving up until I find an effective solution. Recognizing the importance of a good user experience, I decided to study UX/UI design. This decision not only complemented my technical skills but also revealed another passion that brings me happiness.<br>
+I have experience with <strong>frontend development, WordPress, Elementor, and WooCommerce</strong>, along with UX/UI design, Product Design, prototyping, and visual identity. <strong>Art and creativity</strong> are also an important part of my work and the way I approach digital products. I enjoy creating solutions that are functional, intuitive, and visually engaging.
 
-I combine advanced technical skills with a deep understanding of user-centered design. My focus is on creating solutions that not only work perfectly but also provide an exceptional user experience.</p>
+I’m curious, self-driven, and highly focused on problem-solving. I enjoy learning new technologies and finding new ways to combine <strong>code, design, and AI</strong> to turn ideas into real-world solutions.
+</p>
 
 <!--
 **CarolinaDangelo/CarolinaDangelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
