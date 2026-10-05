@@ -10,7 +10,7 @@
 
 </div>
 
-<h1>Hi! 👋 I'm Carolina D'Angelo</h1>
+<h1>Hi! 👋 I'm Carolina D'Angelo but you can call me Carola.</h1>
 
 <p>
 I’m a <strong>Web Developer, UX/UI Designer, and Product Designer</strong> with a multidisciplinary profile that combines <strong>web development, automation, artificial intelligence, and creativity</strong>. I create and develop <strong>digital products and solutions</strong>, working across user interfaces and experiences as well as automation, integrations, and AI-powered tools.
